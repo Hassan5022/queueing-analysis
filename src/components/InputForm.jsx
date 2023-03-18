@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Form, Button } from "react-bootstrap";
-import './InputForm.css'
+import "./InputForm.css";
 
 function InputForm({ setResult }) {
 	const [lambda, setLambda] = useState("");

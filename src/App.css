@@ -8,11 +8,22 @@
     color: white;
 }
 
+.main-content{
+    margin-right: 8px;
+}
+
+.graph-container{
+    background-color: #d3d1cb;
+    border-radius: 8px;
+    width: 550px;
+    padding: 12px 32px;
+    box-shadow: 4px 4px 6px #b5a7a7;
+    height: 560px;
+}
 .container {
-	margin: 0 auto;
-	width: 40%;
 	background-color: #656057;
 	border-radius: 8px;
 	padding: 12px 32px;
 	box-shadow: 4px 4px 6px #b5a7a7;
+    margin-bottom: 8px;
 }
