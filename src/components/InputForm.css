@@ -1,0 +1,31 @@
+.input-form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.input-form .input-group {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 12px;
+}
+
+.input-form .input-group Label {
+	padding-bottom: 8px;
+}
+
+.input-form .input-group input,
+.input-form .input-group select {
+	padding: 8px;
+	border-radius: 8px;
+	border: none;
+}
+
+.calculate {
+	width: 172px;
+	margin: 0 auto;
+	padding: 8px;
+	border-radius: 8px;
+	border: none;
+	cursor: pointer;
+}
